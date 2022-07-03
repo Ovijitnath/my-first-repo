@@ -1,0 +1,18 @@
+#headline{
+    color: chartreuse;
+    text-align: center;
+    font-size: larger;
+}
+#keo{
+    text-decoration: double;
+    text-align: center;
+    background-color: rgb(147, 174, 120);
+    
+}
+.keoimage{
+    height: 300px;
+    width: auto;
+   object-fit:fill;
+   margin-left: 20%;
+   
+}
