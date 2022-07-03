@@ -7,6 +7,7 @@
     text-decoration: double;
     text-align: center;
     background-color: rgb(147, 174, 120);
+    font-size: 40px;
     
 }
 .keoimage{
@@ -15,4 +16,9 @@
    object-fit:fill;
    margin-left: 20%;
    
+}
+#Taji{
+    background-color: rgb(69, 119, 18);
+    text-align: center;
+    font-size: 40px;
 }
